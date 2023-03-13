@@ -62,7 +62,7 @@
         </li>
 
         <li class="nav-item">
-          <a href="{{ route('delivery-transaction.create') }}" class="nav-link">
+          <a href="{{ route('delivery-transaction.index') }}" class="nav-link">
             <i class="nav-icon fas fa-circle"></i>
             <p>Delivery Transaction</p>
           </a>
